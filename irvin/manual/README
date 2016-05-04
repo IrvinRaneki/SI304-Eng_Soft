@@ -1,7 +1,7 @@
 #############################	    44	   GGGG
 ## LL     TTTTTTTT EEEEEEE ##	  4 44	  GG
 ## LL        TT    EE      ##	 4  44	 GG
-## LL        TT    EEEE    ##	44444444 GG  GGGG  
+## LL        TT    EEEE    ##	44444444 GG  GGGG
 ## LL        TT    EE      ##	    44	 GG    GG
 ## LL        TT    EE      ##	    44	  GG   GG
 ## LLLLLLL   TT    EEEEEEE ##	    44	   GGGGG
@@ -19,11 +19,11 @@ Access (OFDMA) no downlink e Single Carrier FDMA no uplink para conseguir utiliz
 do espectro. Ele pode ser utilizado em blocos de frequências de 1,4 MHz a 20 MHz e ambas em
 operação FDD e TDD.
 
-Apesar de tanto o LTE como o WiMAX utilizarem uma ligação sem fios OFDMA, o primeiro possui a 
-vantagem de ser compatível com os recursos existentes nas redes HSPA e GSM, permitindo que os 
+Apesar de tanto o LTE como o WiMAX utilizarem uma ligação sem fios OFDMA, o primeiro possui a
+vantagem de ser compatível com os recursos existentes nas redes HSPA e GSM, permitindo que os
 operadores móveis possam realizar a transição para a tecnologia LTE sem descontinuidade de serviço nas redes já existentes.
 
-Vários dos grandes operadores de comunicações móveis, incluindo alguns que utilizam a norma CDMA, 
+Vários dos grandes operadores de comunicações móveis, incluindo alguns que utilizam a norma CDMA,
 optaram pela adopção dessa tecnologia nos próximos anos.
 
 
@@ -35,9 +35,11 @@ more: https://pt.wikipedia.org/wiki/Long_Term_Evolution
 
 #############################
 
-A Estação Radio Base LTE(eNodeB) envia mensagens via UDP para um IP previamente configurado. Estas 
-mensagens contem informações referentes ao sinal da torre e celular(UE) como por exemplo: Condição de 
-BLER (Block Error Rate) que é o indicativo de erro no envio de mensagem. O limite maximo de BLER 
-estabelecido pelo 3GPP, orgão regulamentador das Teles, é de 10%. 
-Para ter mais controle da relacao sinal ruido de seu canal seria ótimo uma ferramenta que mostrasse 
+A Estação Radio Base LTE(eNodeB) envia mensagens via UDP para um IP previamente configurado. Estas
+mensagens contem informações referentes ao sinal da torre e celular(UE) como por exemplo: Condição de
+BLER (Block Error Rate) que é o indicativo de erro no envio de mensagem. O limite maximo de BLER
+estabelecido pelo 3GPP, orgão regulamentador das Teles, é de 10%.
+Para ter mais controle da relacao sinal ruido de seu canal seria ótimo uma ferramenta que mostrasse
 em Real Time o valor atual.
+
+#############################

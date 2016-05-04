@@ -1,7 +1,7 @@
 Requisitos funcionais:
 -Leitura de mensagem recebida via UDP
 -Dissecar mensagem recebida
--Contabelizar valores reais para BLER, CQI-Indication
+-Contabilizar valores reais para BLER, CQI-Indication
 -Amostragem em grafico em real time
 -Possibilidade de salvar o grafico atual em imagem
 
