@@ -43,7 +43,7 @@ def conect(local):
 def main():
     mensagem=''
     port = 8888
-    ip = "192.168.0.15"
+    ip = "10.202.35.138"
     local=((ip, port))
 
     conect(local)
